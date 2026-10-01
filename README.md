@@ -43,7 +43,7 @@ I'm a **BCA student** focused on becoming a **Full Stack Developer** and buildin
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,cpp,git,github,vercel" />
 </p>
 
@@ -51,33 +51,54 @@ I'm a **BCA student** focused on becoming a **Full Stack Developer** and buildin
 
 ## 🚀 Featured Projects
 
-### 💼 HirePulse
+### 💼 HirePulse — Job Portal
 
-**Full-stack Job Portal**
-
-A job portal project focused on connecting **job seekers and employers** through a modern web application.
+A full-stack job portal built to connect **job seekers and employers** through a modern web application.
 
 **Tech Stack:** React.js • Node.js • Express.js • MySQL
 
+🔗 **[View Repository](https://github.com/Rajeshsingh123456/Job-portal)**
+
 ---
 
-### 🛒 ShopEase
+### 🛒 ShopEase — E-Commerce Website
 
-**Frontend E-Commerce Website**
-
-A responsive e-commerce website with product browsing, search, category filtering and shopping cart functionality.
+A responsive frontend-focused e-commerce website with **product browsing, search, category filtering and shopping cart functionality**.
 
 **Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **[View Repository](https://github.com/Rajeshsingh123456/e-commerce-website)**  
+🌐 **[Live Demo](https://e-commerce-website-lovat-alpha.vercel.app/)**
 
 ---
 
 ### 🌐 Personal Portfolio
 
-**Personal Portfolio Website**
-
-A personal website showcasing my skills, projects and development journey.
+My personal developer portfolio showcasing my **skills, projects and development journey**.
 
 **Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **[View Repository](https://github.com/Rajeshsingh123456/rajesh-portfolio)**
+
+---
+
+### 🛍️ Amazon Clone
+
+A frontend practice project recreating the core interface and layout of an e-commerce platform.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **[View Repository](https://github.com/Rajeshsingh123456/amazon-clone)**
+
+---
+
+### 🎮 Tic Tac Toe
+
+An interactive browser-based Tic Tac Toe game with **turn-based gameplay and winner detection**.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **[View Repository](https://github.com/Rajeshsingh123456/TIC-TAC-TOC-game-by-JavaScript-JS-)**
 
 ---
 
@@ -95,7 +116,7 @@ A personal website showcasing my skills, projects and development journey.
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/rajesh-negi-56796732a/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
