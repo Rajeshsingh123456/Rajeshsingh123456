@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajesh Singh</h1>
 
-<p align="center">
-  <b>BCA Student | Aspiring Full Stack Developer</b>
-</p>
+<h3 align="center">
+  BCA Student • Aspiring Full Stack Developer
+</h3>
 
 <p align="center">
-  Building practical web applications and continuously improving my development skills.
+  Building practical, responsive and user-focused web applications.
 </p>
 
 <p align="center">
@@ -18,33 +18,33 @@
 
 ## 👨‍💻 About Me
 
-I'm a BCA student focused on becoming a Full Stack Developer and building practical, responsive web applications.
+I'm a **BCA student** focused on becoming a **Full Stack Developer** and building practical web applications.
 
-- 🎓 BCA Student
-- 💻 Aspiring Full Stack Developer
-- 🌐 Focused on JavaScript and modern web development
-- ⚛️ Working with React.js
-- 🟢 Learning Node.js and Express.js
-- 🗄️ Learning MySQL
-- 🚀 Building real-world projects
-- 📚 Continuously improving my development skills
+- 🎓 Pursuing **BCA in Computer Science**
+- 💻 Aspiring **Full Stack Developer**
+- 🌐 Focused on **JavaScript & modern web development**
+- ⚛️ Building interfaces with **React.js**
+- 🟢 Learning **Node.js & Express.js**
+- 🗄️ Working with **MySQL**
+- 🚀 Building and improving **real-world projects**
+- 📚 Continuously learning and improving my development skills
 
 ---
 
 ## 🚀 Currently Working On
 
-- 💼 **HirePulse** — Full-stack Job Portal
+- 💼 Building **HirePulse**, a full-stack job portal
 - ⚛️ Improving my **React.js** skills
 - 🟢 Learning **Node.js & Express.js**
 - 🗄️ Working with **MySQL**
-- 🛠️ Building and improving real-world web projects
+- 🛠️ Building practical web development projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,cpp,git,github,vercel" />
 </p>
 
 ---
@@ -53,25 +53,31 @@ I'm a BCA student focused on becoming a Full Stack Developer and building practi
 
 ### 💼 HirePulse
 
-A full-stack job portal designed to connect employers and job seekers.
+**Full-stack Job Portal**
 
-**Tech Stack:** React.js, Node.js, Express.js, MySQL
+A job portal project focused on connecting **job seekers and employers** through a modern web application.
+
+**Tech Stack:** React.js • Node.js • Express.js • MySQL
 
 ---
 
 ### 🛒 ShopEase
 
-A responsive frontend-focused e-commerce website with product browsing, search, category filtering and shopping cart functionality.
+**Frontend E-Commerce Website**
 
-**Tech Stack:** HTML, CSS, JavaScript
+A responsive e-commerce website with product browsing, search, category filtering and shopping cart functionality.
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 ### 🌐 Personal Portfolio
 
-A personal portfolio website showcasing my skills, projects and development journey.
+**Personal Portfolio Website**
 
-**Tech Stack:** HTML, CSS, JavaScript
+A personal website showcasing my skills, projects and development journey.
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
