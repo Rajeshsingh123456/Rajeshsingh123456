@@ -24,50 +24,110 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA student and aspiring Full Stack Developer** focused on building practical web applications and improving my skills through real-world projects.
+I'm a **BCA student and aspiring Full Stack Developer** focused on building practical web applications and improving my development skills through real-world projects.
 
 - 🎓 Pursuing **BCA in Computer Science**
 - 💻 Focused on **Full Stack Web Development**
 - ⚛️ Building modern interfaces with **React.js**
 - 🟢 Developing backend applications with **Node.js & Express.js**
 - 🗄️ Working with **MySQL** and exploring **MongoDB**
-- 🔧 Building projects with a focus on clean structure and practical functionality
-- 🚀 Currently developing **HirePulse**, a full-stack job portal
+- 🔧 Interested in clean code, structured applications and practical solutions
+- 🚀 Currently building **HirePulse**, a full-stack job portal
 - 📚 Continuously improving my development and problem-solving skills
 
 ---
 
 ## 🚀 Currently Building
 
-### 💼 HirePulse
+<h3 align="center">💼 HirePulse — Full-Stack Job Portal</h3>
 
-**A full-stack job portal designed to connect job seekers and employers through a modern web application.**
+<p align="center">
+  A full-stack job portal designed to connect <b>job seekers</b> and <b>employers</b>
+  through a modern recruitment platform.
+</p>
 
-HirePulse is being developed as a practical full-stack application with separate workflows for **job seekers and employers**, focusing on authentication, job management, applications and recruitment workflows.
+<p align="center">
+  HirePulse focuses on job discovery, job management, applications and
+  role-based workflows for both sides of the platform.
+</p>
 
-### Core Features
+<br>
 
-| 🔐 **Authentication** | 💼 **Job Management** | 📋 **Applications** |
-| --------------------- | --------------------- | ------------------- |
-| Role-based user access | Create and manage jobs | Apply for available jobs |
-| Employer & seeker flows | Manage posted jobs | Track applications |
+<h3 align="center">⚡ Core Features</h3>
 
-| 👤 **Job Seeker** | 🏢 **Employer** | 📊 **Recruitment Workflow** |
-| ----------------- | ---------------- | --------------------------- |
-| Find and explore jobs | Post and manage jobs | Manage applicants |
-| View job details | View applications | Applicant tracking |
+<table align="center">
+<tr>
 
-| 🎯 **Seeker Dashboard** | 📈 **Employer Dashboard** | 🗂️ **Profile Management** |
-| ------------------------ | -------------------------- | -------------------------- |
-| Personalized job activity | Hiring overview & metrics | Manage user profiles |
-| Job discovery & applications | Jobs & applicant management | Account information |
+<td align="center" width="33%">
 
-### Tech Stack
+### 🔐 Authentication
 
-**Frontend:** React.js  
-**Backend:** Node.js • Express.js  
-**Database:** MySQL  
-**Development:** Git • GitHub
+Role-based access for  
+**Job Seekers & Employers**
+
+</td>
+
+<td align="center" width="33%">
+
+### 💼 Job Management
+
+Create, manage and  
+explore job opportunities
+
+</td>
+
+<td align="center" width="33%">
+
+### 📋 Applications
+
+Apply for jobs and  
+manage application workflows
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 👤 Job Seeker
+
+Find jobs, view details  
+and manage applications
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏢 Employer
+
+Post jobs and manage  
+applications
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯 Recruitment
+
+Manage applicants and  
+recruitment workflows
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>Tech Stack</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
+</p>
 
 ---
 
@@ -75,31 +135,31 @@ HirePulse is being developed as a practical full-stack application with separate
 
 ### 💻 Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
 
 ### 🎨 Frontend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🔧 Tools & Platforms
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
 </p>
 
@@ -107,61 +167,168 @@ HirePulse is being developed as a practical full-stack application with separate
 
 ## 🚀 Featured Projects
 
-### 💼 HirePulse — Full-Stack Job Portal
+<table>
+<tr>
 
-A full-stack job portal with dedicated workflows for **job seekers and employers**, including job discovery, job management and application workflows.
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js • Node.js • Express.js • MySQL
+<h3 align="center">💼 HirePulse</h3>
 
-🔗 **[View Repository](https://github.com/Rajeshsingh123456/Job-portal)**
+<p align="center">
+  <b>Full-Stack Job Portal</b>
+</p>
 
----
+<p align="center">
+  A modern job portal with dedicated workflows for job seekers and employers.
+</p>
 
-### 🛒 ShopEase — E-Commerce Website
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
+</p>
 
-A responsive frontend-focused e-commerce website featuring **product browsing, search, category filtering and shopping cart functionality**.
+<p align="center">
+  <a href="https://github.com/Rajeshsingh123456/Job-portal">
+    <b>View Repository →</b>
+  </a>
+</p>
 
-**Tech Stack:** HTML • CSS • JavaScript
+</td>
 
-🔗 **[View Repository](https://github.com/Rajeshsingh123456/e-commerce-website)**  
-🌐 **[Live Demo](https://e-commerce-website-lovat-alpha.vercel.app/)**
+<td width="50%" valign="top">
 
----
+<h3 align="center">🛒 ShopEase</h3>
 
-### 🌐 Personal Portfolio
+<p align="center">
+  <b>E-Commerce Website</b>
+</p>
 
-A personal developer portfolio showcasing my **skills, projects and development journey**.
+<p align="center">
+  A responsive e-commerce website with product browsing, search, filtering and cart functionality.
+</p>
 
-**Tech Stack:** HTML • CSS • JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-🔗 **[View Repository](https://github.com/Rajeshsingh123456/rajesh-portfolio)**
+<p align="center">
+  <a href="https://github.com/Rajeshsingh123456/e-commerce-website">
+    <b>GitHub →</b>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://e-commerce-website-lovat-alpha.vercel.app/">
+    <b>Live Demo →</b>
+  </a>
+</p>
 
----
+</td>
 
-### 🛍️ Amazon Clone
+</tr>
 
-A frontend practice project inspired by a modern e-commerce interface, built to strengthen frontend development skills.
+<tr>
 
-**Tech Stack:** HTML • CSS • JavaScript
+<td width="50%" valign="top">
 
-🔗 **[View Repository](https://github.com/Rajeshsingh123456/amazon-clone)**
+<h3 align="center">🌐 Personal Portfolio</h3>
 
----
+<p align="center">
+  <b>Developer Portfolio</b>
+</p>
 
-### 🎮 Tic Tac Toe
+<p align="center">
+  A personal portfolio showcasing my skills, projects and development journey.
+</p>
 
-An interactive browser-based game featuring **turn-based gameplay and winner detection**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Tech Stack:** HTML • CSS • JavaScript
+<p align="center">
+  <a href="https://github.com/Rajeshsingh123456/rajesh-portfolio">
+    <b>View Repository →</b>
+  </a>
+</p>
 
-🔗 **[View Repository](https://github.com/Rajeshsingh123456/TIC-TAC-TOC-game-by-JavaScript-JS-)**
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛍️ Amazon Clone</h3>
+
+<p align="center">
+  <b>Frontend Practice Project</b>
+</p>
+
+<p align="center">
+  A frontend e-commerce interface created to practice HTML, CSS and JavaScript.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rajeshsingh123456/amazon-clone">
+    <b>View Repository →</b>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎮 Tic Tac Toe</h3>
+
+<p align="center">
+  <b>JavaScript Game</b>
+</p>
+
+<p align="center">
+  An interactive browser game featuring turn-based gameplay and winner detection.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rajeshsingh123456/TIC-TAC-TOC-game-by-JavaScript-JS-">
+    <b>View Repository →</b>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📂 More Projects</h3>
+
+<p align="center">
+  Explore my GitHub repositories for more development projects,
+  experiments and learning work.
+</p>
+
+<p align="center">
+  <br>
+  <a href="https://github.com/Rajeshsingh123456?tab=repositories">
+    <b>View All Repositories →</b>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshsingh123456&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshsingh123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
@@ -173,15 +340,19 @@ An interactive browser-based game featuring **turn-based gameplay and winner det
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-negi-56796732a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/rajeshsingh1205/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="mailto:rajnegi1205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajnegi1205%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+
+<a href="https://www.linkedin.com/in/rajesh-negi-56796732a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/rajeshsingh1205/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="mailto:rajnegi1205@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
 
 ---
