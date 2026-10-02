@@ -5,55 +5,111 @@
 </h3>
 
 <p align="center">
-  Building practical, responsive and user-focused web applications.
+  I build practical, responsive and full-stack web applications with modern web technologies.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-negi-56796732a/">LinkedIn</a>
-  •
-  <a href="https://leetcode.com/u/rajeshsingh1205/">LeetCode</a>
+  <a href="https://www.linkedin.com/in/rajesh-negi-56796732a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/rajeshsingh1205/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:rajnegi1205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **BCA student** focused on becoming a **Full Stack Developer** and building practical web applications.
+I'm a **BCA student and aspiring Full Stack Developer** focused on building practical web applications and improving my skills through real-world projects.
 
 - 🎓 Pursuing **BCA in Computer Science**
-- 💻 Aspiring **Full Stack Developer**
-- 🌐 Focused on **JavaScript & modern web development**
-- ⚛️ Building interfaces with **React.js**
-- 🟢 Learning **Node.js & Express.js**
-- 🗄️ Working with **MySQL**
-- 🚀 Building and improving **real-world projects**
-- 📚 Continuously learning and improving my development skills
+- 💻 Focused on **Full Stack Web Development**
+- ⚛️ Building modern interfaces with **React.js**
+- 🟢 Developing backend applications with **Node.js & Express.js**
+- 🗄️ Working with **MySQL** and exploring **MongoDB**
+- 🔧 Building projects with a focus on clean structure and practical functionality
+- 🚀 Currently developing **HirePulse**, a full-stack job portal
+- 📚 Continuously improving my development and problem-solving skills
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Currently Building
 
-- 💼 Building **HirePulse**, a full-stack job portal
-- ⚛️ Improving my **React.js** skills
-- 🟢 Learning **Node.js & Express.js**
-- 🗄️ Working with **MySQL**
-- 🛠️ Building practical web development projects
+### 💼 HirePulse
+
+**A full-stack job portal designed to connect job seekers and employers through a modern web application.**
+
+HirePulse is being developed as a practical full-stack application with separate workflows for **job seekers and employers**, focusing on authentication, job management, applications and recruitment workflows.
+
+### Core Features
+
+| 🔐 **Authentication** | 💼 **Job Management** | 📋 **Applications** |
+| --------------------- | --------------------- | ------------------- |
+| Role-based user access | Create and manage jobs | Apply for available jobs |
+| Employer & seeker flows | Manage posted jobs | Track applications |
+
+| 👤 **Job Seeker** | 🏢 **Employer** | 📊 **Recruitment Workflow** |
+| ----------------- | ---------------- | --------------------------- |
+| Find and explore jobs | Post and manage jobs | Manage applicants |
+| View job details | View applications | Applicant tracking |
+
+| 🎯 **Seeker Dashboard** | 📈 **Employer Dashboard** | 🗂️ **Profile Management** |
+| ------------------------ | -------------------------- | -------------------------- |
+| Personalized job activity | Hiring overview & metrics | Manage user profiles |
+| Job discovery & applications | Jobs & applicant management | Account information |
+
+### Tech Stack
+
+**Frontend:** React.js  
+**Backend:** Node.js • Express.js  
+**Database:** MySQL  
+**Development:** Git • GitHub
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,cpp,git,github,vercel" />
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 HirePulse — Job Portal
+### 💼 HirePulse — Full-Stack Job Portal
 
-A full-stack job portal built to connect **job seekers and employers** through a modern web application.
+A full-stack job portal with dedicated workflows for **job seekers and employers**, including job discovery, job management and application workflows.
 
 **Tech Stack:** React.js • Node.js • Express.js • MySQL
 
@@ -63,7 +119,7 @@ A full-stack job portal built to connect **job seekers and employers** through a
 
 ### 🛒 ShopEase — E-Commerce Website
 
-A responsive frontend-focused e-commerce website with **product browsing, search, category filtering and shopping cart functionality**.
+A responsive frontend-focused e-commerce website featuring **product browsing, search, category filtering and shopping cart functionality**.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -74,7 +130,7 @@ A responsive frontend-focused e-commerce website with **product browsing, search
 
 ### 🌐 Personal Portfolio
 
-My personal developer portfolio showcasing my **skills, projects and development journey**.
+A personal developer portfolio showcasing my **skills, projects and development journey**.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -84,7 +140,7 @@ My personal developer portfolio showcasing my **skills, projects and development
 
 ### 🛍️ Amazon Clone
 
-A frontend practice project recreating the core interface and layout of an e-commerce platform.
+A frontend practice project inspired by a modern e-commerce interface, built to strengthen frontend development skills.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -94,7 +150,7 @@ A frontend practice project recreating the core interface and layout of an e-com
 
 ### 🎮 Tic Tac Toe
 
-An interactive browser-based Tic Tac Toe game with **turn-based gameplay and winner detection**.
+An interactive browser-based game featuring **turn-based gameplay and winner detection**.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -123,4 +179,13 @@ An interactive browser-based Tic Tac Toe game with **turn-based gameplay and win
   <a href="https://leetcode.com/u/rajeshsingh1205/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
+  <a href="mailto:rajnegi1205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajnegi1205%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
